@@ -14,7 +14,7 @@ O PetHeaven foi desenvolvido como projeto integrador do curso Formação .NET do
 💻 **Instalação e Execução**
 ```bash
 # Clone o repositório:
-git clone https://github.com/seu-usuario/petheaven.git
+git clone git clone https://github.com/victoriacsouza/petheaven.git
 
 # Acesse a pasta do projeto:
 cd petheaven
