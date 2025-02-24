@@ -1,0 +1,56 @@
+.login-information{
+    padding: 300px;
+    font-size: 25px;
+
+}
+.main-login{
+    font-size: 50px;
+    height: 80px;
+    /* padding: 20px; */
+    
+}
+.entrar-login{
+    background-color: #b97a56;
+    color: #fff;
+    font-size: 25px;
+    border-radius: 4px;
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+    border: inherit;
+}
+.cadastro-login{
+   /*background-color: #b97a56; */
+ /*   color: #fff; */
+  /*  font-size: 25px;*/
+    border-radius: 4px;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    border: inherit;
+    text-align:left;
+}
+
+.voltar-login{
+   background-color: #ffffff; 
+   color: black; 
+   font-size: 25px;
+   border-radius: 4px;
+   width: 200px;
+   height: 40px;
+   margin: 10px; 
+   border: inherit;
+}
+/* .email{
+    font-size: 20px;
+} */
+a{
+    font-size: 20px;
+}
+input{
+    font-size:20px;
+    width: 500px;
+    height: 30px; 
+}
+
+

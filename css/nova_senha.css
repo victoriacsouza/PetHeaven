@@ -1,0 +1,24 @@
+.main-ns{
+    padding: 300px;
+    font-size: 25px;
+}
+.nova_senha{
+    margin: 10px;
+    background-color: #b97a56;
+    color: #ffffff;
+    font-size: 25px;
+    border-radius: 4px;
+    width: 400px;
+    height: 40px;
+    border: inherit;
+}
+.voltar-ns{
+    background-color: #ffffff; 
+    color: black; 
+    font-size: 20px;
+    border-radius: 4px;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    border: inherit;
+}

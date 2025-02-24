@@ -1,0 +1,70 @@
+
+.search-cep {
+    margin: 10px;
+    background-color: #b97a56;
+    color: #ffffff;
+    font-size: 15px;
+    border-radius: 4px;
+    width: 80px;
+    height: 40px;
+    border: inherit;
+} 
+
+.main-cadastro{
+    font-size: 50px;
+    height: 80px;
+}
+.cadastro-information{
+    height: 1000px;
+    padding: 20px;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+/* .nome{
+    height: 30px;
+    text-align: left, center; 
+    font-size: 25px; 
+}*/
+
+/* .sobrenome{
+    height: 30px;
+    text-align:left, center; 
+    font-size: 25px;
+    
+} */
+
+.entrar-cadastro{
+    margin: 10px;
+    background-color: #b97a56;
+    color: #ffffff;
+    font-size: 25px;
+    border-radius: 4px;
+    width: 200px;
+    height: 40px;
+    border:inherit;
+}
+.voltar-cadastro{
+margin: 10px;
+background-color: #ffffff; 
+color: black;
+font-size: 20px;
+border-radius: 4px;
+width: 200px;
+height: 40px;
+border:inherit;
+}
+input{
+    font-size: 20px;
+    width: 500px;
+    height: 30px;
+    margin: 5px;
+    color: #000;
+}
+.cep{
+    font-size: 15px;
+}
+.link{
+    font-weight: bold;
+    font-size: 15px;
+}
