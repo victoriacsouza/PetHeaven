@@ -1,7 +1,7 @@
-🐾 PetHeaven
+🐾 **PetHeaven**  
 Projeto integrador do curso Formação .NET do Senac, desenvolvido com C# e .NET 8.0.
 
-🚀 Índice
+🚀 **Índice**
 
 1. [Descrição](#descrição)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -11,21 +11,19 @@ Projeto integrador do curso Formação .NET do Senac, desenvolvido com C# e .NET
 6. [Licença](#licença)
 7. [Contato](#contato)
 
-
-📜 Descrição
+📜 **Descrição**  
 O PetHeaven foi desenvolvido como projeto integrador do curso Formação .NET do Senac. Ele tem como foco o cadastro de usuários, integração com a API de CEP e serviu como base para a aplicação prática dos conhecimentos adquiridos no curso. 
 
-⚙️ Tecnologias Utilizadas
-C# e .NET 8.0
-ASP.NET Core
-SQL Server
-HTML, CSS e JavaScript
-API ViaCEP
+⚙️ **Tecnologias Utilizadas**
+- C# e .NET 8.0
+- ASP.NET Core
+- SQL Server
+- HTML, CSS e JavaScript
+- API ViaCEP
 
- 💻 Instalação e Execução
+💻 **Instalação e Execução**
 ```bash
-# Clone o repositório:  
-
+# Clone o repositório:
 git clone https://github.com/seu-usuario/petheaven.git
 
 # Acesse a pasta do projeto:
@@ -34,7 +32,7 @@ cd petheaven
 # Instale as dependências:
 dotnet restore
 
-4. Execute a aplicação:
+# Execute a aplicação:
 dotnet run
 ```
 
@@ -48,4 +46,5 @@ Este projeto está sob a licença MIT.
 
 📬 Contato
 Criado por Victoria 💙
-[LinkedIn](https://www.linkedin.com/in/victoria-silva01234/)  | [Email](cristinasouzavic@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victoria-silva01234/)  | [Email](emailto:cristinasouzavic@gmail.com)
+
