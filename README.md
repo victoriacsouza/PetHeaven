@@ -1,16 +1,6 @@
 🐾 **PetHeaven**  
 Projeto integrador do curso Formação .NET do Senac, desenvolvido com C# e .NET 8.0.
 
-🚀 **Índice**
-
-1. [Descrição](#descrição)
-2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-3. [Instalação e Execução](#instalação-e-execução)
-4. [Funcionalidades](#funcionalidades)
-5. [Contribuição](#contribuição)
-6. [Licença](#licença)
-7. [Contato](#contato)
-
 📜 **Descrição**  
 O PetHeaven foi desenvolvido como projeto integrador do curso Formação .NET do Senac. Ele tem como foco o cadastro de usuários, integração com a API de CEP e serviu como base para a aplicação prática dos conhecimentos adquiridos no curso. 
 
@@ -46,5 +36,5 @@ Este projeto está sob a licença MIT.
 
 📬 Contato
 Criado por Victoria 💙
-[LinkedIn](https://www.linkedin.com/in/victoria-silva01234/)  | [Email](emailto:cristinasouzavic@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/victoria-silva01234/)  | [Email](mailto:cristinasouzavic@gmail.com)
 
